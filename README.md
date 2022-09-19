@@ -3,7 +3,6 @@
 <h1 align="center">Hi 👋, I'm Sakshi</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sakshi7832&label=Profile%20views&color=0e75b6&style=flat" alt="sakshi7832" /> </p>
 
-- 🌱 I’m currently learning **JavaScript**
 
 - 💬 Ask me about **C,C++,Java,Mysql**
 
